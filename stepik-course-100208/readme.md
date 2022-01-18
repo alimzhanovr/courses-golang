@@ -1,1 +1,2 @@
-[# Go (Golang) - первое знакомство](https://stepik.org/course/100208)
+# Go (Golang) - первое знакомство
+[link ->](https://stepik.org/course/100208)
