@@ -13,3 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+*.idea/
+
+.idea/courses-golang.iml
+.idea/modules.xml
+.idea/vcs.xml
