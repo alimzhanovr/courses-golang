@@ -10,6 +10,7 @@ I'm starting to master the golang and github language. The repository does not c
 Время прохождения курса: 4 часа<br />
 Язык: Русский<br />
 Сертификат:  Не выдается
+[![Screenshot-from-2022-01-19-00-03-05.png](https://i.postimg.cc/q7PH4cM9/Screenshot-from-2022-01-19-00-03-05.png)](https://postimg.cc/3yFcZvGB)
 
 ## Go на практике
 [course](https://stepik.org/course/96832) <br />
@@ -18,6 +19,7 @@ I'm starting to master the golang and github language. The repository does not c
 Время прохождения курса: 8 часов<br />
 Язык: Русский<br />
 Сертификат:  Не выдается
+[![Screenshot-from-2022-01-21-16-52-08.png](https://i.postimg.cc/L5KD3nmR/Screenshot-from-2022-01-21-16-52-08.png)](https://postimg.cc/MM51WZcr)
 
 ## Программирование на Golang
 [course](https://stepik.org/course/54403) <br />
